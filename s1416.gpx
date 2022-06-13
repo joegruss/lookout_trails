@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>Trailforks Ride Plan</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Trailforks Ride Plan
+</name>
+<link href="https://www.trailforks.com/ridelog/planner/">
+</link>
+<trkseg>
+<trkpt lat="34.98892" lon="-85.34003">
+<ele>363.3</ele>
+</trkpt>
+<trkpt lat="34.98897" lon="-85.33923">
+<ele>348.1</ele>
+</trkpt>
+<trkpt lat="34.98905" lon="-85.33905">
+<ele>345.4</ele>
+</trkpt>
+<trkpt lat="34.98922" lon="-85.33875">
+<ele>340.8</ele>
+</trkpt>
+<trkpt lat="34.98934" lon="-85.33863">
+<ele>338.6</ele>
+</trkpt>
+<trkpt lat="34.98944" lon="-85.33857">
+<ele>336.2</ele>
+</trkpt>
+<trkpt lat="34.98954" lon="-85.33848">
+<ele>334.4</ele>
+</trkpt>
+<trkpt lat="34.98973" lon="-85.33833">
+<ele>331</ele>
+</trkpt>
+<trkpt lat="34.98983" lon="-85.33827">
+<ele>332</ele>
+</trkpt>
+<trkpt lat="34.99013" lon="-85.33812">
+<ele>330.5</ele>
+</trkpt>
+<trkpt lat="34.99018" lon="-85.33806">
+<ele>330.5</ele>
+</trkpt>
+<trkpt lat="34.9904" lon="-85.33791">
+<ele>329.3</ele>
+</trkpt>
+<trkpt lat="34.99049" lon="-85.33782">
+<ele>327</ele>
+</trkpt>
+<trkpt lat="34.99057" lon="-85.33773">
+<ele>323.8</ele>
+</trkpt>
+<trkpt lat="34.99081" lon="-85.33728">
+<ele>312.1</ele>
+</trkpt>
+<trkpt lat="34.99086" lon="-85.33722">
+<ele>313</ele>
+</trkpt>
+<trkpt lat="34.99111" lon="-85.33713">
+<ele>313.7</ele>
+</trkpt>
+<trkpt lat="34.99121" lon="-85.33707">
+<ele>315.2</ele>
+</trkpt>
+<trkpt lat="34.99126" lon="-85.33701">
+<ele>312.8</ele>
+</trkpt>
+<trkpt lat="34.99133" lon="-85.33695">
+<ele>315.3</ele>
+</trkpt>
+<trkpt lat="34.99155" lon="-85.33668">
+<ele>308.7</ele>
+</trkpt>
+<trkpt lat="34.99167" lon="-85.33647">
+<ele>308.8</ele>
+</trkpt>
+<trkpt lat="34.9918" lon="-85.3362">
+<ele>304</ele>
+</trkpt>
+<trkpt lat="34.99184" lon="-85.33614">
+<ele>304</ele>
+</trkpt>
+<trkpt lat="34.99194" lon="-85.33599">
+<ele>304.5</ele>
+</trkpt>
+<trkpt lat="34.99207" lon="-85.33584">
+<ele>303.4</ele>
+</trkpt>
+<trkpt lat="34.99236" lon="-85.33542">
+<ele>293.4</ele>
+</trkpt>
+<trkpt lat="34.99256" lon="-85.33536">
+<ele>292.2</ele>
+</trkpt>
+<trkpt lat="34.99305" lon="-85.33542">
+<ele>287.6</ele>
+</trkpt>
+<trkpt lat="34.99312" lon="-85.33548">
+<ele>285.2</ele>
+</trkpt>
+<trkpt lat="34.99322" lon="-85.33554">
+<ele>282.9</ele>
+</trkpt>
+<trkpt lat="34.99339" lon="-85.33575">
+<ele>288.7</ele>
+</trkpt>
+<trkpt lat="34.99346" lon="-85.33581">
+<ele>291.2</ele>
+</trkpt>
+<trkpt lat="34.99359" lon="-85.3359">
+<ele>294.7</ele>
+</trkpt>
+<trkpt lat="34.99376" lon="-85.33596">
+<ele>297.5</ele>
+</trkpt>
+<trkpt lat="34.99403" lon="-85.33581">
+<ele>300.5</ele>
+</trkpt>
+<trkpt lat="34.99415" lon="-85.33563">
+<ele>297.5</ele>
+</trkpt>
+<trkpt lat="34.99435" lon="-85.33524">
+<ele>290.6</ele>
+</trkpt>
+<trkpt lat="34.9944" lon="-85.33518">
+<ele>292.2</ele>
+</trkpt>
+<trkpt lat="34.9945" lon="-85.33503">
+<ele>291.5</ele>
+</trkpt>
+<trkpt lat="34.99457" lon="-85.33497">
+<ele>292.8</ele>
+</trkpt>
+<trkpt lat="34.99467" lon="-85.33491">
+<ele>295</ele>
+</trkpt>
+<trkpt lat="34.99484" lon="-85.33476">
+<ele>294.9</ele>
+</trkpt>
+<trkpt lat="34.99499" lon="-85.33467">
+<ele>290.6</ele>
+</trkpt>
+<trkpt lat="34.99521" lon="-85.33458">
+<ele>287.2</ele>
+</trkpt>
+<trkpt lat="34.99531" lon="-85.33434">
+<ele>279.7</ele>
+</trkpt>
+<trkpt lat="34.99535" lon="-85.3332">
+<ele>249.9</ele>
+</trkpt>
+<trkpt lat="34.9954" lon="-85.33299">
+<ele>248.4</ele>
+</trkpt>
+<trkpt lat="34.99545" lon="-85.33287">
+<ele>246</ele>
+</trkpt>
+<trkpt lat="34.99555" lon="-85.33254">
+<ele>238.4</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

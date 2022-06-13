@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>Trailforks Ride Plan</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Trailforks Ride Plan
+</name>
+<link href="https://www.trailforks.com/ridelog/planner/">
+</link>
+<trkseg>
+<trkpt lat="34.9973" lon="-85.3426">
+<ele>519</ele>
+</trkpt>
+<trkpt lat="34.99813" lon="-85.34224">
+<ele>516.1</ele>
+</trkpt>
+<trkpt lat="34.99854" lon="-85.34217">
+<ele>516.5</ele>
+</trkpt>
+<trkpt lat="34.99898" lon="-85.34207">
+<ele>516.1</ele>
+</trkpt>
+<trkpt lat="34.99971" lon="-85.34163">
+<ele>511.4</ele>
+</trkpt>
+<trkpt lat="35.00011" lon="-85.34136">
+<ele>510.3</ele>
+</trkpt>
+<trkpt lat="35.00044" lon="-85.34122">
+<ele>511.7</ele>
+</trkpt>
+<trkpt lat="35.00089" lon="-85.3411">
+<ele>504.7</ele>
+</trkpt>
+<trkpt lat="35.00242" lon="-85.34096">
+<ele>501.5</ele>
+</trkpt>
+<trkpt lat="35.00446" lon="-85.34075">
+<ele>494.3</ele>
+</trkpt>
+<trkpt lat="35.00567" lon="-85.3407">
+<ele>488.3</ele>
+</trkpt>
+<trkpt lat="35.00697" lon="-85.34053">
+<ele>483</ele>
+</trkpt>
+<trkpt lat="35.00829" lon="-85.34027">
+<ele>477.1</ele>
+</trkpt>
+<trkpt lat="35.00898" lon="-85.34032">
+<ele>474.2</ele>
+</trkpt>
+<trkpt lat="35.00965" lon="-85.34047">
+<ele>472.9</ele>
+</trkpt>
+<trkpt lat="35.01026" lon="-85.34075">
+<ele>471.5</ele>
+</trkpt>
+<trkpt lat="35.01093" lon="-85.34094">
+<ele>467.2</ele>
+</trkpt>
+<trkpt lat="35.01182" lon="-85.34098">
+<ele>463.3</ele>
+</trkpt>
+<trkpt lat="35.01272" lon="-85.34094">
+<ele>459.1</ele>
+</trkpt>
+<trkpt lat="35.01312" lon="-85.34096">
+<ele>458.3</ele>
+</trkpt>
+<trkpt lat="35.01319" lon="-85.34098">
+<ele>457.5</ele>
+</trkpt>
+<trkpt lat="35.01323" lon="-85.34097">
+<ele>457.5</ele>
+</trkpt>
+<trkpt lat="35.01334" lon="-85.341">
+<ele>455.7</ele>
+</trkpt>
+<trkpt lat="35.01351" lon="-85.34117">
+<ele>460.2</ele>
+</trkpt>
+<trkpt lat="35.01355" lon="-85.34124">
+<ele>463.1</ele>
+</trkpt>
+<trkpt lat="35.01354" lon="-85.34147">
+<ele>466.4</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

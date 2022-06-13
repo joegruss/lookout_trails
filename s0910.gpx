@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>Trailforks Ride Plan</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Trailforks Ride Plan
+</name>
+<link href="https://www.trailforks.com/ridelog/planner/">
+</link>
+<trkseg>
+<trkpt lat="35.00748" lon="-85.3545">
+<ele>398.2</ele>
+</trkpt>
+<trkpt lat="35.00724" lon="-85.35473">
+<ele>395.5</ele>
+</trkpt>
+<trkpt lat="35.00671" lon="-85.35513">
+<ele>398.4</ele>
+</trkpt>
+<trkpt lat="35.00627" lon="-85.35549">
+<ele>394.6</ele>
+</trkpt>
+<trkpt lat="35.00608" lon="-85.3556">
+<ele>397.4</ele>
+</trkpt>
+<trkpt lat="35.00586" lon="-85.35566">
+<ele>398.9</ele>
+</trkpt>
+<trkpt lat="35.00578" lon="-85.35565">
+<ele>398.8</ele>
+</trkpt>
+<trkpt lat="35.0055" lon="-85.35554">
+<ele>400.4</ele>
+</trkpt>
+<trkpt lat="35.00543" lon="-85.35555">
+<ele>399.9</ele>
+</trkpt>
+<trkpt lat="35.00537" lon="-85.35558">
+<ele>399.4</ele>
+</trkpt>
+<trkpt lat="35.00533" lon="-85.35563">
+<ele>399.4</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
